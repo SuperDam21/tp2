@@ -1,7 +1,7 @@
 """
 Nom:    Damien Thibodeau
 Groupe: 4-123
-Projet: TP2; Fire deviner un chiffre à l'utilisateur
+Projet: TP2; Faire deviner un chiffre à l'utilisateur
 """
 import random
 jouer=True
